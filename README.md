@@ -49,7 +49,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Apartment Hunt](https://dsfaisal.com/work/apartment-hunt/)
+- [JavaScript frequently asked problem solving question with solution](https://dsfaisal.com/articles/2020-11-04-js-problem-solving/)
+- [JavaScript Block Bindings and ES6 every developer must know!](https://dsfaisal.com/articles/2020-11-02-javascript-block-bindings-es6/)
+- [10 fundamental things you need to know about React](https://dsfaisal.com/articles/2020-11-03-react-fundamental-concepts/)
+- [JavaScript array method every developer should know!](https://dsfaisal.com/articles/2020-11-01-javascript-array-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dsfaisal.com)
