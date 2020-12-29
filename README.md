@@ -68,7 +68,7 @@
 
 ---
 
-<img width="550" alt="Faisal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faisalcep&show_icons=true&hide_border=true" />
+<img width="550" alt="Faisal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faisalcep&show_icons=true&hide_border=false" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalcep&langs_count=10&card_width=550)](https://github.com/faisalcep/github-readme-stats)
 
