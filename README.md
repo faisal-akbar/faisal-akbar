@@ -54,6 +54,11 @@
 - [JavaScript Block Bindings and ES6 every developer must know!](https://dsfaisal.com/articles/2020-11-02-javascript-block-bindings-es6/)
 - [10 fundamental things you need to know about React](https://dsfaisal.com/articles/2020-11-03-react-fundamental-concepts/)
 - [JavaScript array method every developer should know!](https://dsfaisal.com/articles/2020-11-01-javascript-array-method/)
+- [Creative Agency](https://dsfaisal.com/work/creative-agency/)
+- [Volunteer Network](https://dsfaisal.com/work/volunteer-network/)
+- [Shiny Apps](https://dsfaisal.com/work/shiny-apps/)
+- [Data visualization in Tableau](https://dsfaisal.com/work/tableau-all/)
+- [Travel Guru](https://dsfaisal.com/work/travel-guru/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dsfaisal.com)
