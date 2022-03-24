@@ -60,7 +60,7 @@
 - [Creative Agency](https://dsfaisal.com/work/creative-agency/)
 - [Volunteer Network](https://dsfaisal.com/work/volunteer-network/)
 - [Shiny Apps](https://dsfaisal.com/work/shiny-apps/)
-- [Data visualization in Tableau](https://dsfaisal.com/work/tableau-all/)
+- [Data visualization in Tableau](https://dsfaisal.com/tableau/tableau-dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dsfaisal.com)
