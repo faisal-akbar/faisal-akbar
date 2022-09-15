@@ -51,16 +51,14 @@
 ### 📕 Recent Projects/ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apartment Hunt](https://dsfaisal.com/work/apartment-hunt/)
-- [LeetCode SQL Problem Solving Questions With Solutions](https://dsfaisal.com/articles/2020-11-06-leetcode-sql-problem-solving/)
-- [JavaScript frequently asked problem solving question with solution](https://dsfaisal.com/articles/2020-11-04-js-problem-solving/)
-- [JavaScript Block Bindings and ES6 every developer must know!](https://dsfaisal.com/articles/2020-11-02-javascript-block-bindings-es6/)
-- [10 fundamental things you need to know about React](https://dsfaisal.com/articles/2020-11-03-react-fundamental-concepts/)
-- [JavaScript array method every developer should know!](https://dsfaisal.com/articles/2020-11-01-javascript-array-method/)
-- [Creative Agency](https://dsfaisal.com/work/creative-agency/)
-- [Volunteer Network](https://dsfaisal.com/work/volunteer-network/)
-- [Shiny Apps](https://dsfaisal.com/work/shiny-apps/)
-- [Data visualization in Tableau](https://dsfaisal.com/tableau/tableau-dashboard/)
+- [LeetCode SQL Problem Solving Questions With Solutions](https://dsfaisal.com/articles/sql/leetcode-sql-problem-solving)
+- [HackerRank SQL Problem Solving Questions With Solutions](https://dsfaisal.com/articles/sql/hackerrank-sql-problem-solving)
+- [JavaScript frequently asked problem solving question with solution](https://dsfaisal.com/articles/js/js-problem-solving)
+- [JavaScript Block Bindings and ES6 every developer must know!](https://dsfaisal.com/articles/js/javascript-block-bindings-es6)
+- [10 fundamental things you need to know about React](https://dsfaisal.com/articles/js/react-fundamental-concepts)
+- [JavaScript array method every developer should know!](https://dsfaisal.com/articles/js/javascript-array-method)
+- [How to convert multiple xslb files to csv with python](https://dsfaisal.com/articles/python/xslb-to-csv-python)
+- [How to Write CSV in R](https://dsfaisal.com/articles/r-programming/write-to-csv-r)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dsfaisal.com)
