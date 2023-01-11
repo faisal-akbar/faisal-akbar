@@ -4,8 +4,8 @@
 
 ## Data Scientist | Tableau Developer | Web Developer
 
-- 🔭 Currently working as Senior Data Analytics Consultant
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Currently working as Software Engineer (Data and Analytics)
+- 🌱 I’m currently learning Data Structure and Algorithm
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Curious, enthusiastic and problem solver.
@@ -67,14 +67,14 @@
 
 ---
 
-<img width="550" alt="Faisal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faisalcep&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="550" alt="Faisal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faisal-akbar&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalcep&langs_count=10&card_width=550)](https://github.com/faisalcep/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-akbar&langs_count=10&card_width=550)](https://github.com/faisal-akbar/github-readme-stats)
 
 [website]: https://dsfaisal.com
 [linkedin]: https://linkedin.com/in/md-faisal-akbar
 [tableau]: https://public.tableau.com/profile/faisalakbar#!/
-[twitter]: https://twitter.com/faisalcep
+[twitter]: https://twitter.com/_faisal_akbar
 [medium]: https://faisalakbar.medium.com/
 [rpubs]: https://rpubs.com/faisalcep
 [stackoverflow]: https://stackoverflow.com/users/9394506/faisal-akbar
