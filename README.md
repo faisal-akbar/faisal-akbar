@@ -67,7 +67,17 @@
 
 ---
 
-<img width="550" alt="Faisal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faisal-akbar&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="550" alt="Faisal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faisal-akbar&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />  
+
+## Competitive Programming:
+
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+
+![](https://raw.githubusercontent.com/faisal-akbar/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/faisal-akbar/cf-stats/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/faisal-akbar/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-akbar&langs_count=10&card_width=550)](https://github.com/faisal-akbar/github-readme-stats)
 
