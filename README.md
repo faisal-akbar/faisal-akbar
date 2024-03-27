@@ -51,14 +51,16 @@
 ### 📕 Recent Projects/ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode SQL Problem Solving Questions With Solutions](https://dsfaisal.com/articles/sql/leetcode-sql-problem-solving)
-- [HackerRank SQL Problem Solving Questions With Solutions](https://dsfaisal.com/articles/sql/hackerrank-sql-problem-solving)
-- [JavaScript frequently asked problem solving question with solution](https://dsfaisal.com/articles/js/js-problem-solving)
-- [JavaScript Block Bindings and ES6 every developer must know!](https://dsfaisal.com/articles/js/javascript-block-bindings-es6)
-- [10 fundamental things you need to know about React](https://dsfaisal.com/articles/js/react-fundamental-concepts)
-- [JavaScript array method every developer should know!](https://dsfaisal.com/articles/js/javascript-array-method)
-- [How to convert multiple xslb files to csv with python](https://dsfaisal.com/articles/python/xslb-to-csv-python)
-- [How to Write CSV in R](https://dsfaisal.com/articles/r-programming/write-to-csv-r)
+- [Tableau Public Portal](https://dsfaisal.com/articles/tableau-public-portal-tailwindcss)
+- [Nivo Tailwindcss Dashboard](https://dsfaisal.com/articles/nivo-tailwindcss-dashboard)
+- [Apartment Hunt](https://dsfaisal.com/articles/apartment-hunt)
+- [Creative Agency](https://dsfaisal.com/articles/creative-agency)
+- [Volunteer Network](https://dsfaisal.com/articles/volunteer-network)
+- [Shiny Apps](https://dsfaisal.com/articles/shiny-apps)
+- [Data visualization in Tableau](https://dsfaisal.com/articles/tableau-all)
+- [Travel Guru](https://dsfaisal.com/articles/travel-guru)
+- [Athena Design](https://dsfaisal.com/articles/athena-design)
+- [React Mini Projects](https://dsfaisal.com/articles/react-mini-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dsfaisal.com)
