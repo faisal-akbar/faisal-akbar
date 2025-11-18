@@ -2,12 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=dsfaisal.com&style=for-the-badge&url=https%3A%2F%2Fdsfaisal.com)](https://dsfaisal.com)
 
-## Data Scientist | Tableau Developer | Web Developer
+## Full Stack Developer
 
-- 🔭 Currently working as Software Engineer (Data and Analytics)
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 🔭 Currently working as a Software Engineer
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Curious, enthusiastic and problem solver.
 
 ## Connect with me:
