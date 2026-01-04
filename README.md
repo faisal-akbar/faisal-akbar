@@ -51,7 +51,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&style=for-the-badge&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&style=for-the-badge&logoColor=fff)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?lstyle=for-the-badge&ogo=r&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
