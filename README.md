@@ -114,9 +114,16 @@
 ### 📕 Popular Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode SQL Solution]((https://www.dsfaisal.com/articles/sql/leetcode-sql-problem-solving)) - 96k+ views
-- [HackerRank SQL Solution]((https://www.dsfaisal.com/articles/sql/hackerrank-sql-problem-solving)) - 96k+ views
-
+- [Tableau Public Portal](https://dsfaisal.com/articles/tableau-public-portal-tailwindcss)
+- [Nivo Tailwindcss Dashboard](https://dsfaisal.com/articles/nivo-tailwindcss-dashboard)
+- [Apartment Hunt](https://dsfaisal.com/articles/apartment-hunt)
+- [Creative Agency](https://dsfaisal.com/articles/creative-agency)
+- [Volunteer Network](https://dsfaisal.com/articles/volunteer-network)
+- [Shiny Apps](https://dsfaisal.com/articles/shiny-apps)
+- [Data visualization in Tableau](https://dsfaisal.com/articles/tableau-all)
+- [Travel Guru](https://dsfaisal.com/articles/travel-guru)
+- [Athena Design](https://dsfaisal.com/articles/athena-design)
+- [React Mini Projects](https://dsfaisal.com/articles/react-mini-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dsfaisal.com)
