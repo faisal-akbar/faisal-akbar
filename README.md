@@ -69,7 +69,7 @@
 [![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000)](#)
 [![Mongoose](https://img.shields.io/badge/-Mongoose-000?&style=for-the-badge&logo=MongoDB&logoColor=white&s)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](#)
-[![JWT](https://img.shields.io/badge/JWT-black?style=plastic&style=for-the-badge&logo=JSON%20web%20tokens)](#)
+[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
 [![Auth.js](https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?style=for-the-badge&logo=auth.js&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff)](#)
